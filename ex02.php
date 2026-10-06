@@ -12,7 +12,7 @@
     $age = 20;
     $formation = "Développement web";
 
-    $phrase = "Je m'appelle " . $prenom . " " . $nom . ", j'ai " . $age . " ans et je suis en " . $formation . ". ";
+    $phrase = "Je m'appelle" . $prenom . " " . $nom . ", j'ai " . $age . " ans et je suis en " . $formation . ". ";
     $phrase .= "J'apprends PHP";
     echo "<p>$phrase</p>";
 
