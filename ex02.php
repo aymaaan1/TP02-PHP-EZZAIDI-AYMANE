@@ -7,8 +7,8 @@
 <body>
     <h1>Exercice 2</h1>
     <?php
-    $nom = "Alaoui";
-    $prenom = "Karim";
+    $nom = "Benani";
+    $prenom = "Mbarek";
     $age = 20;
     $formation = "Développement web";
 
